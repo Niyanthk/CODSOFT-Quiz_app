@@ -19,5 +19,5 @@ quiz_data = [
         "choices": ["China", "Japan", "South Korea", "Thailand"],
         "answer": "Japan"
     }
-    # Add more questions here
+    
 ]
